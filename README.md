@@ -15,6 +15,11 @@ The `k8s-sa-creator` is a Python script designed to facilitate the creation of a
 - Python 3.x installed
 - `kubectl` installed and configured
 
+## Tested on
+- Client Version: v1.27.4
+- Kustomize Version: v5.0.1
+- Server Version: v1.27.4
+
 ## Script Arguments
 
 | Argument             | Required | Description                                                       | Default       | Example                                 |
