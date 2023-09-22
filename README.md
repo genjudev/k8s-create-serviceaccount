@@ -54,7 +54,7 @@ This will generate the kubeconfig file and print it to stdout.
 ### Advanced Usage
 
 ```bash
-python sa-kubeconfig-generator.py \
+python k8s-sa-creator.py \
     --cluster-url https://192.168.1.100:6443 \
     --cluster-name my-cluster \
     --namespace my-namespace \
